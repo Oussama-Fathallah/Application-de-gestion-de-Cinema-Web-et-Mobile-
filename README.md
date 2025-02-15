@@ -60,44 +60,50 @@ Clone the repository:
 ```sh
 git clone https://github.com/your-username/movie-ticket-booking-system.git
 cd movie-ticket-booking-system/backend/Cinema\ App
-Install dependencies:
-```
-```sh
 
-mvn install
-Run the application:
 ```
+Install dependencies:
+```sh
+mvn install
+```
+Run the application:
+
 ```sh
 mvn spring-boot:run
-🌐 Web App (React.js)
-Navigate to the web app directory:
 ```
+##🌐 Web App (React.js)
+
+
+Navigate to the web app directory:
 ```sh
 
 cd ../../frontend/react-web
-Install dependencies:
+
 ```
+Install dependencies:
 ```sh
 
 npm install
+
+```
 Start the application:
-```
 ```sh
-
 npm start
-📱 Mobile App (React Native)
-Navigate to the mobile app directory:
 ```
-```sh
+##📱 Mobile App (React Native)
 
+Navigate to the mobile app directory:
+```sh
 cd ../cinema-mobile
-Install dependencies:
+
 ```
+Install dependencies:
 ```sh
 
 npm install
-Run the application:
+
 ```
+Run the application:
 ```sh
 
 npx react-native run-android  # For Android  
