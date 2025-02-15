@@ -50,3 +50,63 @@ This system is built with modern technologies to ensure a smooth and user-friend
 │   ├── cinema-mobile/   # Mobile app (React Native)
 │   ├── react-web/       # Web app (React.js)
 │── README.md            # Project documentation
+
+
+## 🏗️ Installation & Setup  
+
+### ⚙ Backend (Spring Boot)  
+Clone the repository:  
+```sh
+git clone https://github.com/your-username/movie-ticket-booking-system.git
+cd movie-ticket-booking-system/backend/Cinema\ App
+Install dependencies:
+
+sh
+Copier
+Modifier
+mvn install
+Run the application:
+
+sh
+Copier
+Modifier
+mvn spring-boot:run
+🌐 Web App (React.js)
+Navigate to the web app directory:
+
+sh
+Copier
+Modifier
+cd ../../frontend/react-web
+Install dependencies:
+
+sh
+Copier
+Modifier
+npm install
+Start the application:
+
+sh
+Copier
+Modifier
+npm start
+📱 Mobile App (React Native)
+Navigate to the mobile app directory:
+
+sh
+Copier
+Modifier
+cd ../cinema-mobile
+Install dependencies:
+
+sh
+Copier
+Modifier
+npm install
+Run the application:
+
+sh
+Copier
+Modifier
+npx react-native run-android  # For Android  
+npx react-native run-ios      # For iOS  
