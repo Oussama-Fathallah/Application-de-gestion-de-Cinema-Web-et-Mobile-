@@ -71,7 +71,7 @@ Run the application:
 ```sh
 mvn spring-boot:run
 ```
-##🌐 Web App (React.js)
+## 🌐 Web App (React.js)
 
 
 Navigate to the web app directory:
@@ -90,7 +90,7 @@ Start the application:
 ```sh
 npm start
 ```
-##📱 Mobile App (React Native)
+## 📱 Mobile App (React Native)
 
 Navigate to the mobile app directory:
 ```sh
